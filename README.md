@@ -1,10 +1,10 @@
 # Project Manager Assistant
 
 ## Why
-Save time and eliminate probability of errprs
-Auto-generate recurring activities' files
-Enforce following PM conventions
-Configurable
+- Save time and eliminate probability of errors
+- Auto-generate recurring activities' files
+- Enforce following PM conventions
+- Configurable (your own templates, naming conventions, target directories..)
 
 
 ## How It Works
