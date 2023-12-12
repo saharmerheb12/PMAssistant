@@ -1,0 +1,16 @@
+Variable, Value
+#PM Name#,<Please fill your Firstnmae Lastname>
+#PM Email#,<Please fill your Email address>
+#Quote No#,<Please fill as per SOW>
+#Client Name#,<Please fill as per SOW>
+#Client PM Name#,<Please fill client PM Firstnmae Lastname>
+#Client PM Email#,<Please fill client PM Email address>
+#Next Weekly Call#,<Please fill the next planned weekly call - Format:mm-dd-yy>
+#Milestone1#,<Please Fill Milestone 1 Description as in SOW>
+#Milestone2#,<Please Fill Milestone 2 Description as in SOW - Leave as is if N/A>
+#Milestone3#,<Please Fill Milestone 3 Description as in SOW - Leave as is if N/A>
+#Milestone4#,<Please Fill Milestone 4 Description as in SOW - Leave as is if N/A>
+#Milestone5#,<Please Fill Milestone 5 Description as in SOW - Leave as is if N/A>
+#Milestone6#,<Please Fill Milestone 6 Description as in SOW - Leave as is if N/A>
+#Milestone7#,<Please Fill Milestone 7 Description as in SOW - Leave as is if N/A>
+#Milestone8#,<Please Fill Milestone 8 Description as in SOW - Leave as is if N/A>

@@ -1,0 +1,10 @@
+{
+  "Milestone": {
+    "Header": "SOW Milestones are",
+    "MilestonePrefix": "Milestone"
+  },
+  "Identifiers": {
+    "QuoteNumber": "Quote No.",
+    "ClientName": "Client :"
+  }
+}
